@@ -36,7 +36,19 @@
     <style type="text/css">
       body { background: #f2f2f2; }
       .navbar { background: inherit !important; }
-      footer { opacity: 0.2; }
+      .navbar-brand {
+        font-size: 30px;
+        font-weight: bold;
+      }
+      a.navbar-brand {
+        color: #999 !important;
+      }
+      #imgb-desk {
+          max-width: 920px;
+          height: 242px;
+          background: no-repeat url('static/png/drawing-7.09-v0.1.1--_desk.svg.png');
+          margin: 10px auto 0 0;
+      }
       #imgb-disc {
           max-width: 280px;
           height: 72px;
@@ -44,15 +56,6 @@
           background-repeat: none;
           margin: 0 0 0 auto;
       }
-      #imgb-desk {
-          max-width: 920px;
-          height: 242px;
-          background-image: url('static/png/drawing-7.09-v0.1.1--_desk.svg.png');
-          background-repeat: none;
-          margin: 0 auto;
-      }
-
-
       #imgb-footer {
           max-width: 914px;
           height: 216px;
@@ -60,7 +63,6 @@
           background-repeat: none;
           margin: 0 auto;
       }
-
       #imgb-footer-logo {
           max-width: 280px;
           height: 52px;
@@ -68,6 +70,11 @@
           background-repeat: none;
           margin: 20px 0;
       }
+
+      .contentrow h2 {
+        text-transform: lowercase;
+      }
+      footer { opacity: 0.2; }
     </style>
   </head>
 
@@ -115,7 +122,7 @@
 
 
       <!-- Example row of columns -->
-      <div class="row">
+      <div class="row contentrow">
         <div class="col-md-4" id="services">
           <h2><a href="#services">Services</a></h2>
           <ul class="list-group">
