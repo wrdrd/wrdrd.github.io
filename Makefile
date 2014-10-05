@@ -33,7 +33,6 @@ setup_remotes:
 	git remote remove wrd || true
 	git remote add wrd ssh://git@github.com/wrd/wrd.github.io
 	git remote -v
-	git submodule update --init
 	#
 	# See also: $ make pull
 	# 
