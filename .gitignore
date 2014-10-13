@@ -43,3 +43,5 @@ docs/_build
 
 # UndoTree
 *.un~
+
+.DS_Store
