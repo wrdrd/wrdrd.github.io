@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/westurner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wrdrd.com
+  * I am westurner (https://keybase.io/westurner) on keybase.
+  * I have a public key ASAy7kaQRXpchVfKf1DVN9rRrRQCVYJ_EnHxEyvj1b5fmwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012026322d50c726d0774f623d15c52dddc7ca82df7d280f5f49958a1a7f71b1dd0c0a",
+      "host": "keybase.io",
+      "kid": "012032ee4690457a5c8557ca7f50d537dad1ad140255827f1271f1132be3d5be5f9b0a",
+      "uid": "5bec45f4849cb5569a706370741da500",
+      "username": "westurner"
+    },
+    "merkle_root": {
+      "ctime": 1568067300,
+      "hash": "0c1eadf748f490870d362f977d7c7951664ec7add0175d960aae106c5f5c94175b3093c86c7cb798d4454dcfb0c9a631063fda5a8d00da163a0c471fa46301d9",
+      "hash_meta": "00d3746b76fe1dbda7e55c096623e5914411cdb6ec96992e2306db71e19adf3b",
+      "seqno": 6264586
+    },
+    "service": {
+      "entropy": "8+IJ6f1rvQwYIxFph2GaZH2c",
+      "hostname": "wrdrd.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568067311,
+  "expire_in": 504576000,
+  "prev": "ad298c1f3281d9aa9a3c60e2d100e1cc0d92ff956a85ad0669dd29c3fe9e7074",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMu5GkEV6XIVXyn9Q1Tfa0a0UAlWCfxJx8RMr49W+X5sKp3BheWxvYWTESpcCFMQgrSmMHzKB2aqaPGDi0QDhzA2S/5Vqha0Gad0pw/6ecHTEIJJZsBkrqOAhH1n+S0TUBxueiPEYyUc7mBGBh9DzPWNOAgHCo3NpZ8RAsnDWhEyXIs6JGkO2pP00j8BR5z1ZWbqgUCXyXE3+Cih7pdufKcoQuXpej4uRNWNRqBvRevE4kmyeP7hxNPqwBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPXVW734oMNbD16PRspoy/jaLWw1FiNk20FevcCD/3FTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/westurner
+
+==================================================================
